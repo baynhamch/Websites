@@ -9,3 +9,5 @@ https://www.mystellaexperience.com
 https://www.worthy.com
 
 https://quintessentially.com
+
+[Machine learning Stanford CS229](https://cs229.stanford.edu/main_notes.pdf)
